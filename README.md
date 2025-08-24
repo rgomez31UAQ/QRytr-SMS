@@ -169,6 +169,8 @@ Once uploaded, navigate the menu with the arrow buttons (left, right, up, down).
 
 -Explicitly overwrite all arrays containing plaintext or cryptographic material after use, to remove them from the stack and SRAM.
 
+-Facilitate group keys to share QR codes in a group chat.
+
 # FAQ
 ## hardware
 Q: Could we run the whole device on 3.3V? 
